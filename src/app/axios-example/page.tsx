@@ -8,6 +8,7 @@ import UserCard from "../component/UserCard"; //a custom component that display 
 export default function AxiosExample() {
   //users is state varaible that holds the current user data
   // whereas the setUsers is the function that allow you to update the state of the users variable
+  // @typescript-eslint/no-explicit-any
   const [users, setUsers] = useState<any[]>([]);
   const [loading, setLoading] = useState(true); //its in boolean
 

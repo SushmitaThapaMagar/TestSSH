@@ -237,8 +237,6 @@ export default function MountExample() {
   return <h1>{message}</h1>;
 }
 
- 
-
 
 Day 41-45 : React with Firebase - Hari
 
@@ -287,7 +285,6 @@ Session : include token
 
 We dont do on Route in NextAuth 
 
-
 Why NextAuth ?
 - Secure authentication Library
 - Simplified Process fo integration
@@ -298,8 +295,6 @@ Why NextAuth ?
 - CSRF Protection
 - Passwordless authentication 
 - Configuration  Options : Customization process to shoot application requirements
-
-
 
 
 Where it can ebe used ?
@@ -349,7 +344,6 @@ b.
 - Fetch API requires explicit handling of the response status (status in 200 range)
 - Axios throws an error for response with status code outside the 200 range
 
-
 ======Atomic Design Pattern========
 ======MUI==========
 ======Axios Wrapper====== e.g.interceptor
@@ -371,7 +365,6 @@ why component are used in client and server?
  
 FOR DEPLOYMENT===
 vercel, netlify ==== ssh
-
 for domain get .com.np 
 
 for hosting 
@@ -380,39 +373,7 @@ for hosting
 ======== DOCKER =========
 
 
-
-
-
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAN5Qx0qhnX/uQbWNYy4Ezao7zM3yy+s4iMLBny+zftu sushmita@LAPTOP-3H3OMU0A
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

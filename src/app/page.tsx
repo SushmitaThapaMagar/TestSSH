@@ -35,6 +35,13 @@ const HomePage: React.FC = () => {
         >
           Example with Axios
         </Link>
+        {/* MUI Example */}
+        <Link
+          href="/MUIExample"
+          className="px-4 py-2 bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 text-white rounded-xl shadow-lg hover:scale-105 transition-transform duration-300 ease-in-out"
+        >
+          Example MUI Components
+        </Link>
       </div>
     </main>
   );
